@@ -34,17 +34,52 @@ Um repositório para armazenar um Guia serve para demostrar algumas dicas e ferr
 
 # Conteúdo do Repositório
 
-### Este repositório contém:
+## Este repositório contém:
 
-- ...
+```text
+📚 Guia de Estudos, Pesquisa e Ferramentas
+│
+├── 📄 LaTeX
+│   ├── Templates
+│   ├── Artigos
+│   ├── Relatórios
+│   └── Referências
+│
+├── 💻 VS Code
+│   ├── Configurações
+│   ├── Extensões
+│   ├── Snippets
+│   └── Workspaces
+│
+├── ⚙️ Modelagem 3D
+│   ├── CAD
+│   ├── Blender
+│   ├── Impressão 3D
+│   └── Materiais
+│
+├── 📊 Estatística
+│   ├── Probabilidade
+│   ├── Inferência Estatística
+│   ├── Análise de Dados
+│   └── Exercícios
+│
+└── 📖 Pesquisa
+    ├── Papers
+    ├── Revisões Bibliográficas
+    ├── Metodologia Científica
+    └── Referências
+```
 
 ---
 
 # Como utilizar
 
+- Entre na pasta desejada
+- Realize a leitura do README presente na pasta para orientação
+
 ---
 
-# Autores
+# Autores Idealizadores
 
 <table>
   <tr>
@@ -74,9 +109,9 @@ Um repositório para armazenar um Guia serve para demostrar algumas dicas e ferr
 
   <td align="center">
     <a href="https://github.com/PedroLucas-Sa">
-      <img src="https://avatars.githubusercontent.com/u/282565085?v=4" width="120px" alt="Pedro Lucas M. S. Sá"/>
+      <img src="https://avatars.githubusercontent.com/u/282565085?v=4" width="120px" alt="Pedro Lucas Miranda da Silva de Sá"/>
       <br />
-      <b>Pedro Lucas M. S. Sá</b>
+      <b>Pedro Lucas Miranda da Silva de Sá</b>
     </a>
   </td>
 
@@ -90,3 +125,6 @@ Um repositório para armazenar um Guia serve para demostrar algumas dicas e ferr
 
   </tr>
 </table>
+
+---
+# Autores
