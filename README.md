@@ -127,4 +127,4 @@ Um repositório para armazenar um Guia serve para demostrar algumas dicas e ferr
 </table>
 
 ---
-# Autores
+# Contríbuidores
