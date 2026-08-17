@@ -2,8 +2,6 @@
 
 <img width="100%" height="auto" alt="Cabecalho" src="./assets/cabecalho.png" />
 
-<br/>
-
 <h1 align="center">
 GUIA
 </h1>
@@ -20,9 +18,9 @@ GUIA
 
 ---
 
-# GUIA-Guia Unificado ILUM de Apoio
+# GUIA - Guia Unificado ILUM dos Alunos
 
-Um repositório para armazenar um Guia serve para demostrar algumas dicas e ferramentas importantes para os estudantes
+Um repositório para armazenar um Guia serve para demonstrar algumas dicas e ferramentas importantes para os estudantes
 
 ---
 
@@ -32,50 +30,52 @@ Um repositório para armazenar um Guia serve para demostrar algumas dicas e ferr
 
 ---
 
-# Conteúdo do Repositório
-
-## Este repositório contém:
-
-```text
-📚 Guia de Estudos, Pesquisa e Ferramentas
-│
-├── 📄 LaTeX
-│   ├── Templates
-│   ├── Artigos
-│   ├── Relatórios
-│   └── Referências
-│
-├── 💻 VS Code
-│   ├── Configurações
-│   ├── Extensões
-│   ├── Snippets
-│   └── Workspaces
-│
-├── ⚙️ Modelagem 3D
-│   ├── CAD
-│   ├── Blender
-│   ├── Impressão 3D
-│   └── Materiais
-│
-├── 📊 Estatística
-│   ├── Probabilidade
-│   ├── Inferência Estatística
-│   ├── Análise de Dados
-│   └── Exercícios
-│
-└── 📖 Pesquisa
-    ├── Papers
-    ├── Revisões Bibliográficas
-    ├── Metodologia Científica
-    └── Referências
-```
-
----
-
 # Como utilizar
 
 - Entre na pasta desejada
 - Realize a leitura do README presente na pasta para orientação
+
+---
+
+# Conteúdo do Repositório
+
+## Este repositório contém:
+
+<br>
+
+- 📄 [**LaTeX**](./LaTeX)
+  - Templates
+  - Relatórios
+  - Formatação
+  - Referências
+
+<br>
+
+- 💻 **VS Code** 
+  - Extensões
+  - Atalhos úteis
+
+<br>
+
+- ⚙️ **Modelagem 3D**
+  - CAD
+  - Blender
+  - Impressão 3D
+  - Materiais
+
+<br>
+
+- 📊 **Estatística**
+  - Inferência Estatística
+  - Análise de Dados
+
+<br>
+
+- 📖 **Pesquisa**
+  - Metodologia Científica
+  - Referências
+
+<br>
 
 ---
 
