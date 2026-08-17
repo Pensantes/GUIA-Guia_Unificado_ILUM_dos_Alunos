@@ -20,34 +20,31 @@ GUIA
 
 # GUIA - Guia Unificado ILUM dos Alunos
 
-Um repositório para armazenar um Guia serve para demonstrar algumas dicas e ferramentas importantes para os estudantes
+## Objetivo
+
+Este repositório tem como finalidade disponibilizar um guia com dicas, recursos e ferramentas relevantes para os estudantes.
+
+O guia foi idealizado para apoiar os alunos da ILUM Escola de Ciências, apresentando ferramentas e conteúdos complementares que não são normalmente abordados na sala de aula.
 
 ---
 
-# Objetivo
-
-### ...
-
----
-
-# Como utilizar
+## Como utilizar
 
 - Entre na pasta desejada
-- Realize a leitura do README presente na pasta para orientação
+- Realize a leitura do README presente na pasta para prosseguir com as orientações
 
 ---
 
-# Conteúdo do Repositório
+## Conteúdo do Repositório
 
-## Este repositório contém:
+### Este repositório contém:
 
 <br>
 
 - 📄 [**LaTeX**](./LaTeX)
-  - Templates
-  - Relatórios
-  - Formatação
-  - Referências
+  - [README](./LaTeX/README.md)
+  - [Templates](./LaTeX/Templates/)
+  - Etapas de Estudos
 
 <br>
 
@@ -93,9 +90,9 @@ Um repositório para armazenar um Guia serve para demonstrar algumas dicas e fer
 
   <td align="center">
     <a href="https://github.com/gustavocolas-pessoal">
-      <img src="https://avatars.githubusercontent.com/u/284495799?v=4" width="120px" alt="Gabriel"/>
+      <img src="https://avatars.githubusercontent.com/u/284495799?v=4" width="120px" alt="Gabriel de Oliveira Paiva"/>
       <br />
-      <b>Gabriel</b>
+      <b>Gabriel de Oliveira Paiva</b>
     </a>
   </td>
 
