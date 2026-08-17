@@ -41,34 +41,31 @@ O guia foi idealizado para apoiar os alunos da ILUM Escola de Ciências, apresen
 
 <br>
 
-- 📄 [**LaTeX**](./LaTeX)
-  - [README](./LaTeX/README.md)
+- 📄 [**LaTeX**](./LaTeX/README.md)
   - [Templates](./LaTeX/Templates/)
   - Etapas de Estudos
 
 <br>
 
-- 💻 **VS Code** 
+- 💻 [**VS Code**](./VsCode/README.md) 
   - Extensões
   - Atalhos úteis
 
 <br>
 
-- ⚙️ **Modelagem 3D**
-  - CAD
-  - Blender
+- ⚙️ [**Modelagem 3D**](./Modelagem_3D/README.md)
+  - Modelagem CAD
   - Impressão 3D
-  - Materiais
 
 <br>
 
-- 📊 **Estatística**
+- 📊 [**Estatística**](./Estatística/README.md)
   - Inferência Estatística
   - Análise de Dados
 
 <br>
 
-- 📖 **Pesquisa**
+- 📖 [**Pesquisa**](./Pesquisa/README.md)
   - Metodologia Científica
   - Referências
 
